@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1234
+=======
+1
+>>>>>>> parent of eefc7a9... segundo commit, control 2
